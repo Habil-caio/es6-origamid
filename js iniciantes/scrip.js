@@ -11,3 +11,5 @@ var  cores = '',
     preto='',
     branco='',
     vermelho='';
+
+var teste='25';
